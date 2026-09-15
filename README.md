@@ -1,2 +1,2 @@
-# inkwell-privacy
-Public privacy policy for the InkWell Android app.
+# Pagio-privacy
+Public privacy policy for the Pagio Android app.
